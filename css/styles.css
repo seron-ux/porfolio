@@ -263,7 +263,7 @@ p {
 /* Projects section */
 #projects .projects {
 	flex-direction: column;
-	max-width: 1200px;
+	max-width: 1200px;  
 	margin: 0 auto;
 	padding: 100px 0;
 }
@@ -332,3 +332,28 @@ p {
 	transform: scale(1.1);
 }
 /* End Projects section */
+
+/* About */
+#about .about {
+    flex-direction: row;
+}
+#about .col-left {
+    width: 600px;
+    height: 400px;
+    padding-left: 60px;
+}
+#about .about .col-left:after {
+    left: -45px;
+    top: 34px;
+    height: 98%;
+    width: 98%;
+    border: 10px solid crimson;
+}
+#about .col-right {
+    text-align: left;
+    padding: 30px;
+}
+#about .col-right h1 {
+    text-align: left;
+}
+/* End About */
