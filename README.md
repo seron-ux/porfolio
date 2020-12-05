@@ -10,11 +10,11 @@ This is my portfolio website. It contains details about me, projects i have done
 
 ## Setup/Installation Requirements
 
-Open terminal (CTRL ALT T)
-git clone 
-cd my portfolio
-easy-to-understand
-use atom . or code . to open the clone repo on Atom or VS-code respectively
+- Open terminal (CTRL ALT T)
+- git clone 
+- cd my portfolio
+- easy-to-understand
+- use atom . or code . to open the clone repo on Atom or VS-code respectively
 
 ## Known Bugs
 
