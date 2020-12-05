@@ -22,9 +22,9 @@ My portfolio is not quite responsive, but i am working on making it work better.
 
 ## Technologies Used
 
-HTML5
-CSS3
-GIT (for version control)
+- HTML5
+- CSS3
+- GIT (for version control)
 
 ## Support and contact details
 - Email-abyseronkirui@gmail.com
